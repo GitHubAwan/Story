@@ -1,0 +1,2 @@
+Prelude
+A long time friend who goes by the handle “doom” has spent the past few years reverse engineering and researching the hardware and software on the original Xbox. His end goal was to learn more about PC hardware and see how far he could push the console. Some of his work includes swapping out the stock Pentium 3 CPU running at 733Mhz for a variant of the Pentium 3 CPU running at 1.4Ghz using a custom made CPU interposer board, and even being able to overclock it upwards of ~2Ghz.
