@@ -1,1 +1,8 @@
-This blog post goes over all of the work I’ve done to add HD resolution support to the Original Xbox version of Halo 2. From patching the game to modifying the hardware of the Xbox console to writing custom tools for performance benchmarking, my goal with this project was to push the limits of both and see how far I could go. I’ve tried to keep this blog post as short as I could and only include the most technically interesting parts but even then it ended up quite long.
+This blog post goes over all of the work I’ve done to add HD resolution support to 
+the Original Xbox version of Halo 2. From patching the game to modifying the hardware 
+of the Xbox console to writing custom tools for performance benchmarking, my goal with this
+ project was to push the limits of both and see how far I could go. I’ve tried to keep this blog
+  post as short as I could and only include the most technically interesting parts but
+   even then it ended up quite long.
+
+   this is the true thing.
